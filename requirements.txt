@@ -1,0 +1,9 @@
+torch
+miditok
+pretty_midi
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+pyfluidsynth
