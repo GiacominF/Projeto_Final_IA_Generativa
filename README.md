@@ -110,5 +110,5 @@ As 5 amostras de cada sistema (em MIDI e áudio `.wav` sintetizado) estão dispo
 
 Em conformidade com as diretrizes da disciplina DCC831, declaramos o uso de ferramentas de IA generativa como apoio ao desenvolvimento do projeto:
 
-- **Ferramentas utilizadas:** Google Antigravity (assistente de código e revisão técnica) *[adicionar outras ferramentas utilizadas, ex.: ChatGPT, Claude, etc., se aplicável]*.
-- **Objetivos do uso:** revisão de diagnóstico de *data leakage* e pré-processamento, apoio na depuração de inicialização e otimização do Transformer, adaptação do notebook para execução local em GPU CUDA, verificação de métricas objetivas e apoio na revisão/estruturação do artigo e da documentação.
+- **Ferramentas utilizadas:** Google Antigravity (assistente de código e revisão técnica), Google Gemini (entendimento da proposta do trabalho e auxílio com latex para Overleaf).
+- **Objetivos do uso:** revisão de diagnóstico de *data leakage* e pré-processamento, apoio na depuração de inicialização e otimização do Transformer, adaptação do notebook para execução local em GPU CUDA, verificação de métricas objetivas e apoio na revisão/estruturação do artigo e da documentação. Também foi utilizado Google Gemini para formatar parte desse arquivo README.
