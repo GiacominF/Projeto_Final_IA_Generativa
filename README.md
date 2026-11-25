@@ -102,6 +102,7 @@ As 5 amostras de cada sistema (em MIDI e áudio `.wav` sintetizado) estão dispo
 
 - **Caio Jorge Carvalho Lara**: Coleta, validação, análise exploratória e filtragem das composições completas do dataset Nottingham, garantindo particionamento e tokenização `MIDILike` com reconstrução MIDI. Também estruturei a modelagem inicial do projeto e redigi as Seções 1 (Introdução), 2 (Trabalhos Relacionados) e 6 (Conclusão) do artigo no template.
 - **Guilherme Giacomin**: Consolidação e unificação de janelamento deslizante compartilhado (WindowedMusicDataset), adição da amostragem com nucleus sampling (top-p), estudo experimental de sensibilidade de temperatura (T ∈ {0, 8; 0, 9; 1, 0}), e redação das Seções 3 (Método) e 4 (Experimentos) do artigo ISMIR e apoio na documentação do repositório (README.md e requirements.txt).
+- **Victor Yuji [nome completo]:** Implementação da avaliação objetiva dos modelos, incluindo perplexidade no conjunto de teste, geração de 100 amostras por modelo, cálculo das métricas musicais (Pitch Range, Pitch Class Entropy, Scale Consistency, Polyphony e Empty Beat Rate) e comparação das distribuições com o corpus real via Overlap Area e divergência KL (Yang & Lerch, 2020). Também redigi a Seção [5 (Resultados)] do artigo ISMIR.
 - **Integrante 3 (Nome completo):** *ex.: protocolo de avaliação objetiva (métricas, Overlap Area, KL), síntese de áudio, revisão e apresentação.*
 
 ---
