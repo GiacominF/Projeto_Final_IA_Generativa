@@ -100,9 +100,7 @@ As 5 amostras de cada sistema (em MIDI e áudio `.wav` sintetizado) estão dispo
 
 ## 6. Contribuição dos Integrantes
 
-> **[PREENCHER ANTES DE SUBIR PARA O GITHUB]** — Liste os 3 a 5 integrantes do grupo e a contribuição individual de cada um:
-
-- **Integrante 1 (Nome completo):** *ex.: preparação e análise exploratória do dataset, tokenização `MIDILike`, escrita do artigo.*
+- **Caio Jorge Carvalho Lara**: Coleta, validação, análise exploratória e filtragem das composições completas do dataset Nottingham, garantindo particionamento e tokenização `MIDILike` com reconstrução MIDI. Também estruturei a modelagem inicial do projeto e redigi as Seções 1 (Introdução), 2 (Trabalhos Relacionados) e 6 (Conclusão) do artigo no template.
 - **Guilherme Giacomin**: Consolidação e unificação de janelamento deslizante compartilhado (WindowedMusicDataset), adição da amostragem com nucleus sampling (top-p), estudo experimental de sensibilidade de temperatura (T ∈ {0, 8; 0, 9; 1, 0}), e redação das Seções 3 (Método) e 4 (Experimentos) do artigo ISMIR e apoio na documentação do repositório (README.md e requirements.txt).
 - **Integrante 3 (Nome completo):** *ex.: protocolo de avaliação objetiva (métricas, Overlap Area, KL), síntese de áudio, revisão e apresentação.*
 
@@ -110,12 +108,7 @@ As 5 amostras de cada sistema (em MIDI e áudio `.wav` sintetizado) estão dispo
 
 ## 7. Declaração de Uso de Ferramentas de IA
 
-> **[PREENCHER OS LINKS DAS CONVERSAS ANTES DE SUBIR PARA O GITHUB]**
-
 Em conformidade com as diretrizes da disciplina DCC831, declaramos o uso de ferramentas de IA generativa como apoio ao desenvolvimento do projeto:
 
 - **Ferramentas utilizadas:** Google Antigravity (assistente de código e revisão técnica) *[adicionar outras ferramentas utilizadas, ex.: ChatGPT, Claude, etc., se aplicável]*.
 - **Objetivos do uso:** revisão de diagnóstico de *data leakage* e pré-processamento, apoio na depuração de inicialização e otimização do Transformer, adaptação do notebook para execução local em GPU CUDA, verificação de métricas objetivas e apoio na revisão/estruturação do artigo e da documentação.
-- **Links para as conversas:**
-  - `[Inserir link da conversa 1]`
-  - `[Inserir link da conversa 2]`
