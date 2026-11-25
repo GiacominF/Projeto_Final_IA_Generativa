@@ -1,0 +1,22 @@
+# Ambientes virtuais e Python local
+.venv/
+.python/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Artefatos intermediários, dataset bruto, checkpoints pesados e ZIPs
+nottingham_project/
+*.pt
+*.pth
+*.zip
+
+# Rascunhos e PDFs locais do enunciado (não subir para o repositório)
+DCC831_Nottingham_Preparacao_Dataset.ipynb
+melhorias_projeto_final.pdf
+tp2_autoregressivos.pdf
+
+# Sistema operacional / Editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,3 @@
+modelo,cross-entropy (teste),perplexidade (teste)
+RNN (baseline),0.3845,1.469
+Transformer,0.1281,1.137

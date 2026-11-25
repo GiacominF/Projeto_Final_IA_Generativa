@@ -1,10 +1,15 @@
-torch
-miditok
-pretty_midi
-numpy
-pandas
-scipy
-matplotlib
-scikit-learn
-tqdm
-pyfluidsynth
+# Dependências do Projeto Final — DCC831 (IA Generativa para Música — UFMG)
+# Para GPU NVIDIA CUDA (ex.: cu128), instale o PyTorch pelo índice oficial:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+
+torch>=2.5.0
+miditok>=3.0.0
+pretty_midi>=0.2.10
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+scikit-learn>=1.5.0
+scipy>=1.13.0
+tqdm>=4.66.0
+jinja2>=3.1.0
+ipywidgets>=8.1.0
