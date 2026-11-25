@@ -3,6 +3,7 @@ miditok
 pretty_midi
 numpy
 pandas
+scipy
 matplotlib
 scikit-learn
 tqdm
