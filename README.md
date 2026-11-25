@@ -103,7 +103,7 @@ As 5 amostras de cada sistema (em MIDI e áudio `.wav` sintetizado) estão dispo
 > **[PREENCHER ANTES DE SUBIR PARA O GITHUB]** — Liste os 3 a 5 integrantes do grupo e a contribuição individual de cada um:
 
 - **Integrante 1 (Nome completo):** *ex.: preparação e análise exploratória do dataset, tokenização `MIDILike`, escrita do artigo.*
-- **Integrante 2 (Nome completo):** *ex.: implementação do `MusicTransformer` e do baseline `MusicRNN`, experimentos de treinamento e ajuste de hiperparâmetros.*
+- **Guilherme Giacomin**: Consolidação e unificação de janelamento deslizante compartilhado (WindowedMusicDataset), adição da amostragem com nucleus sampling (top-p), estudo experimental de sensibilidade de temperatura (T ∈ {0, 8; 0, 9; 1, 0}), e redação das Seções 3 (Método) e 4 (Experimentos) do artigo ISMIR e apoio na documentação do repositório (README.md e requirements.txt).
 - **Integrante 3 (Nome completo):** *ex.: protocolo de avaliação objetiva (métricas, Overlap Area, KL), síntese de áudio, revisão e apresentação.*
 
 ---
