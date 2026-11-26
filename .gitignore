@@ -11,7 +11,9 @@ nottingham_project/
 *.pth
 *.zip
 
-# Rascunhos e PDFs locais do enunciado (não subir para o repositório)
+# Rascunhos, fontes LaTeX locais e PDFs do enunciado (não subir para o repositório)
+2016/
+2026/
 DCC831_Nottingham_Preparacao_Dataset.ipynb
 melhorias_projeto_final.pdf
 tp2_autoregressivos.pdf
